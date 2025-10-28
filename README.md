@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Pasionate about building useful products.<br>📚 I'm currently learning react and LLMs.<br>🎯 Goals: build projects.<br>🎲 Fun fact: My favorite animal is the whale.</p>
-
-###
-
 
 <h2 align="left">Been using these lately...</h2>
 
